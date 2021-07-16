@@ -1,0 +1,8 @@
+.App {
+  align-items: center;
+  text-align: center;
+  min-width: 375px;
+  max-width: 1336px;
+  margin: auto;
+  border: 1px solid #E3E3E3;
+}
